@@ -15,7 +15,7 @@ const botOptions = {
     host: 'FAM_MC.aternos.me', 
     port: 25565,
     username: 'Aternos_King_Bot', 
-    version: '1.20.4'
+    version: '1.21.1'
 };
 
 let bot;
